@@ -2,6 +2,7 @@
 
 title: 李波生日聚会
 layout: default
+comments: true
 
 ---
 
@@ -14,4 +15,3 @@ layout: default
 
 
 ![李波生日](/photoes/libo_birthday.jpg)
-
