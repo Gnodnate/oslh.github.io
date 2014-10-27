@@ -4,7 +4,7 @@ email: oslh@googlegroups.com
 permalink: /:year/:title/
 paginate: 10
 exclude: []
-baseurl: /jekyll-bootstrap
+baseurl: /oslh
 description: OpenSource Lab of HEU
 url: "http://oslh.github.io" # the base hostname & protocol for your site
 
